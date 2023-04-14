@@ -32,7 +32,7 @@ Here are some visualizations of the data:
 
 ![image1](/Images/Screenshot%202023-04-14%20175624.png)
 
-### Yaer of Accident vs Variety of Injury
+### Year of Accident vs Variety of Injury
 
 ![image2](/Images/Screenshot%202023-04-14%20175652.png)
 
