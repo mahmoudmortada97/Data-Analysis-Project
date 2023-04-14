@@ -38,7 +38,7 @@ Here are some visualizations of the data:
 
 ### Pie Chart of Accident Year
 
-![image3](/images/Screenshot%202023-04-14%20175448.png)
+![image3](/Images/Screenshot%202023-04-14%20175448.png)
 
 ## Conclusion
 
